@@ -7,13 +7,13 @@
           "display": "Zynq UltraScale+ TQ15EGMP Evaluation Board", 
           "revision": "1.0", 
           "description": "Zynq UltraScale+ TQ15EGMP Evaluation Board", 
-          "company": "baidu.com", 
-          "company_display": "baidu", 
+          "company": "nvx.com", 
+          "company_display": "nvx", 
           "author": "Tiutin", 
           "contributors": [
             {
-              "group": "baidu", 
-              "url": "baidu.com"
+              "group": "nvx", 
+              "url": "nvx.com"
             }
           ], 
           "category": "Evaluation Boards",
@@ -21,7 +21,7 @@
           "website": "https://github.com/MarsWise/tq15egmp",
           "search-keywords": [
             "tq15egmp", 
-            "baidu.com", 
+            "nvx.com", 
             "board", 
             "Zynq UltraScale+ TQ15EGMP Evaluation Board"
           ]
