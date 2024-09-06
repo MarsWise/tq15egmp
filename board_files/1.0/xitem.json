@@ -1,0 +1,34 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "tq15egmp", 
+          "display": "Zynq UltraScale+ TQ15EGMP Evaluation Board", 
+          "revision": "1.0", 
+          "description": "Zynq UltraScale+ TQ15EGMP Evaluation Board", 
+          "company": "baidu.com", 
+          "company_display": "baidu", 
+          "author": "Tiutin", 
+          "contributors": [
+            {
+              "group": "baidu", 
+              "url": "baidu.com"
+            }
+          ], 
+          "category": "Evaluation Boards",
+          "logo": "tq15egmp_board.jpeg", 
+          "website": "https://github.com/MarsWise/tq15egmp",
+          "search-keywords": [
+            "tq15egmp", 
+            "baidu.com", 
+            "board", 
+            "Zynq UltraScale+ TQ15EGMP Evaluation Board"
+          ]
+        }
+      }
+    ]
+  }, 
+  "_major": 1, 
+  "_minor": 0
+}
