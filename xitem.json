@@ -1,0 +1,33 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "tq15egmp", 
+          "display": "Zynq UltraScale+ TQ15EGMP Evaluation Board", 
+          "revision": "1.0", 
+          "description": "Zynq UltraScale+ TQ15EGMP Evaluation Board", 
+          "company": "xilinx.com", 
+          "company_display": "Xilinx", 
+          "author": "Vanitha", 
+          "contributors": [
+            {
+              "group": "Xilinx", 
+              "url": "www.xilinx.com"
+            }
+          ], 
+          "category": "Evaluation Boards",
+          "logo": "tq15egmp_board.jpg", 
+          "search-keywords": [
+            "tq15egmp", 
+            "xilinx.com", 
+            "board", 
+            "Evaluation Boards"
+          ]
+        }
+      }
+    ]
+  }, 
+  "_major": 1, 
+  "_minor": 0
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<board schema_version="1.0" vendor="baidu.com" name="tq15egmp" display_name="Zynq UltraScale+ TQ15EGMP Evaluation Board" url="https://github.com/MarsWise/tq15egmp" preset_file="preset.xml">
+<board schema_version="2.1" vendor="baidu.com" name="fz3a" display_name="Zynq UltraScale+ TQ15EGMP Evaluation Board" url="https://github.com/zhutmost/edgeboard" preset_file="preset.xml">
     <images>
         <image name="tq15egmp_board.jpeg" display_name="Zynq UltraScale+ TQ15EGMP Evaluation Board" sub_type="board">
             <description>TQ15EGMP Board File Image</description>
